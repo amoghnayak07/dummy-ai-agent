@@ -1,6 +1,6 @@
 # hugging-face-dummy-ai-agent
 
-This notebook demonstrates how to interact with Meta's LLaMA-3.2-3B-Instruct model via the Hugging Face Inference API. Teh agent generates text responses based on user input.
+This notebook is for the purpose of learning. It demonstrates how to interact with Meta's LLaMA-3.2-3B-Instruct model via the Hugging Face Inference API. Teh agent generates text responses based on user input.
 
 ### Install Dependencies
 
